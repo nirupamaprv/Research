@@ -4,7 +4,7 @@
 Original Published Business Research Publications on diversity in corporate India and impact of reforms on Higher Education Business Sector in business school academic journals 
 
 ## Papers
-1.Diversity Management as a Strategy for Talent Management and Retention	
+1. Diversity Management as a Strategy for Talent Management and Retention	
 - Investigate diversity management measures and strategies in corporate India as a tool for managing personnel resources
 - ISBN: 978-81-921818-3-7
 
